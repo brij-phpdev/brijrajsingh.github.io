@@ -14,15 +14,15 @@ const AboutTwo = () => {
               <div className="about-me">
                 <div className="img">
                   <div className="img-in">
-                    <img src="img/about/about-me-2.jpg" alt="about" />
+                    <img src="img/about/about-brij.jpg" alt="about" />
                   </div>
                   <Social />
                   {/* End social icon */}
                 </div>
                 {/* End img */}
                 <div className="info">
-                  <p>Ux/Ui Designer</p>
-                  <h3>Nairobi Gadot</h3>
+                  <p>PHP Consultant</p>
+                  <h3>Brij Raj Singh</h3>
                 </div>
                 {/* End info */}
               </div>
@@ -37,16 +37,10 @@ const AboutTwo = () => {
                 </div>
                 <div className="about-text">
                   <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
-                    with new people. New people new Experiences.
+                    Highly skilled and results-driven web development expert with 14 years of experience in utilizing open-source technologies. Proficient in agile methodologies, Git version control, team management, and client interaction. Committed to delivering innovative and efficient web solutions. Seeking challenging opportunities to contribute expertise and drive business success.
                   </p>
                   <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
-                    with new people. New people new Experiences.
+                    
                   </p>
                 </div>
                 <div className="info-list">
@@ -55,19 +49,15 @@ const AboutTwo = () => {
                       <ul>
                         <li>
                           <label>Name: </label>
-                          <span>Nairobi Gadot</span>
+                          <span>Brij Raj Singh</span>
                         </li>
                         <li>
                           <label>Birthday: </label>
-                          <span>4th April 1994</span>
-                        </li>
-                        <li>
-                          <label>Age: </label>
-                          <span>26 years</span>
+                          <span>27th October 1986</span>
                         </li>
                         <li>
                           <label>Address: </label>
-                          <span>San Francisco</span>
+                          <span>India</span>
                         </li>
                       </ul>
                     </div>
@@ -75,15 +65,15 @@ const AboutTwo = () => {
                       <ul>
                         <li>
                           <label>Phone: </label>
-                          <span>(+38) 469 2344 2364</span>
+                          <span>(+91) 761 856 5004</span>
                         </li>
                         <li>
                           <label>Email: </label>
-                          <span>info@domainname.com</span>
+                          <span>brij.phpdev@gmail.com</span>
                         </li>
                         <li>
                           <label>Skype: </label>
-                          <span>nairob.40</span>
+                          <span>brij_raj27</span>
                         </li>
                         <li>
                           <label>Freelance: </label>

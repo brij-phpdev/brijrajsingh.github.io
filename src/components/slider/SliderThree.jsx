@@ -3,10 +3,8 @@ import TextLoop from "react-text-loop";
 import Particles from "react-tsparticles";
 
 const sliderContent = {
-  name: "Reyeila Arifia",
-  description: `I design and develop services for customers of all sizes,
-  specializing in creating stylish, modern websites, web
-  services and online stores.`,
+  name: "Brij Raj Singh",
+  description: `My expertise lies in crafting and implementing tailor-made solutions to cater to clients of varying scales. I possess a distinct proficiency in fashioning elegant and contemporary websites, web-based applications, and online stores.`,
   btnText: "DOWNLOAD CV",
 };
 
@@ -19,7 +17,7 @@ const SliderTwo = () => {
         className="home-banner home-banner-two"
         style={{
           backgroundImage: `url(${
-            process.env.PUBLIC_URL + "img/slider/home-banner-3.jpg"
+            process.env.PUBLIC_URL + "img/slider/home-banner-3-.png"
           })`,
         }}
       >
@@ -132,9 +130,9 @@ const SliderTwo = () => {
                   data-aos-delay="200"
                 >
                   <TextLoop>
-                    <p className="loop-text lead"> Software Engineer</p>
-                    <p className="loop-text lead">Visual Designer</p>
-                    <p className="loop-text lead"> Grphic Designer</p>
+                    <p className="loop-text lead">Software Engineer</p>
+                    <p className="loop-text lead">Full Stack Developer</p>
+                    <p className="loop-text lead">Problem solver</p>
                   </TextLoop>
                 </div>
                 <p
@@ -153,7 +151,7 @@ const SliderTwo = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="img/resume.png"
+                    href="img/Brij-Raj-Singh-Personal-Portfolio.png"
                     download
                   >
                     {sliderContent.btnText}

@@ -3,58 +3,46 @@ import Skills from "../skills/Skills";
 
 const resumeContent = [
   {
-    jobPosition: `Sr. Front-end Engineer`,
-    jobType: `Google | Remote`,
-    jobDuration: `Feb 2021 - Present`,
+    jobPosition: `PHP Consultant`,
+    jobType: `India | Remote`,
+    jobDuration: `Apr 2023 - Present`,
     timeDuraton: `Full Time`,
-    compnayName: "Google LLC",
-    jobDescription: `Adipisicing Lorem ipsum dolor sit amet, consectetur elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "M B IT Services & Consulting",
+    jobDescription: `Starting from April 2023, I have embarked on constructing my own portfolio, and I take great pleasure in collaborating with businesses that are eager to transform their ideas into captivating online experiences.`,
   },
   {
-    jobPosition: `Visual Designer`,
-    jobType: `Ridian | Remote`,
-    jobDuration: `Mar 2020 - Present`,
-    timeDuraton: `Part Time`,
-    compnayName: "Ridian IT",
-    jobDescription: `Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-    irure dolor. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.`,
+    jobPosition: `Sr Software Engineer`,
+    jobType: `Product | Remote`,
+    jobDuration: `Nov 2020 - Nov 2022`,
+    timeDuraton: `Full Time`,
+    compnayName: "AuthBridge",
+    jobDescription: `I have hands-on experience in various technical areas. I have successfully implemented a script that facilitates the closure of verification processes based on configurable parameters. Additionally, I have integrated credit history functionality using the Experian service provider. Moreover, I have developed APIs for Robotic Process Automation (RPA) and have extensive expertise in integrating multiple third-party APIs into systems.`,
   },
   {
-    jobPosition: `Animation Artist`,
-    jobType: `IbThemes | Remote`,
-    jobDuration: `Jan 2019 - Present`,
+    jobPosition: `PHP Team Lead`,
+    jobType: `Noida | Onsite`,
+    jobDuration: `Jan 2009 - Aug 2019`,
     timeDuraton: `Full Time`,
-    compnayName: "IB Themes",
-    jobDescription: ` Consectetur adipisicing elit,lorem ipsum dolor sit amet,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "OpenSUM - Skysoft IT Services Pvt Ltd",
+    jobDescription: ` Developing web applications based on customer requirement(s)`,
   },
 ];
 
 const educatonContent = [
   {
-    passingYear: "2018-2020",
-    degreeTitle: "Ph.D in Horriblensess",
-    instituteName: "University Of Evil Doing",
+    passingYear: "2005-2009",
+    degreeTitle: "B.Tech in Information Technology",
+    instituteName: "Dr. A. P. J. Abdul Kalam Technical University, U.P. formerly UPTU",
   },
   {
-    passingYear: "2013-2016",
-    degreeTitle: "Bsc. in Computer Science",
-    instituteName: "World University",
+    passingYear: "2004-2005",
+    degreeTitle: "Intermediate",
+    instituteName: "Kendriya Vidyalaya, Mathura",
   },
   {
-    passingYear: "2010-2012",
-    degreeTitle: "Graphic Artist Training ",
-    instituteName: "Graphic Master Institute",
+    passingYear: "2002-2003",
+    degreeTitle: "High School",
+    instituteName: "Kendriya Vidyalaya, Mathura",
   },
 ];
 
